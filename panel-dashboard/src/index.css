@@ -30,10 +30,6 @@ body {
   min-height: 100vh;
 }
 
-
-
-
-
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
@@ -42,5 +38,4 @@ body {
   a:hover {
     color: #747bff;
   }
-  
 }
