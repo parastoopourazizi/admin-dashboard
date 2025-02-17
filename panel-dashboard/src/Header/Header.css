@@ -2,4 +2,22 @@
   display: flex;
   height: 55px;
   flex-direction: row;
+  justify-content: space-between;
+  background: #0b0a0a;
+}
+.left-section {
+  width: 150px;
+}
+.admin{
+  color: white;
+  font-size: 25px;
+}
+.middel-section {
+  flex: 1;
+  margin-left: 50px;
+
+  max-width: 500px;
+}
+.right-section {
+  width: 200px;
 }
