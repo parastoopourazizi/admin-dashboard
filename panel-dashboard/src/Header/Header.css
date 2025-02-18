@@ -8,7 +8,12 @@
 .left-section {
   width: 150px;
 }
-.admin{
+.humberger-menu {
+  height: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.admin {
   color: white;
   font-size: 25px;
 }
