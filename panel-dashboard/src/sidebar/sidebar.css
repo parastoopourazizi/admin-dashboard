@@ -4,5 +4,22 @@
   position: fixed;
   left: 0;
   bottom: 0;
-  top: 55px;
+  top: 0;
+}
+.sidebar-link {
+  height: 55px;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+.sidebar-link img {
+  height: 50pxpx;
+}
+.sidebar-link:hover {
+  background-color: rgb(77, 82, 82);
+}
+.admin {
+  color: white;
+  font-size: 25px;
+  margin-left: 15px;
 }

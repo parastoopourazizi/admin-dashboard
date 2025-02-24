@@ -3,11 +3,7 @@ import "./header.css";
 function Header() {
   return (
     <div className="header">
-      <div className="left-section">
-        <p className="admin">Admin</p>
-
-
-      </div>
+     
       <div className="middel-section">
         <img className="humberger-menu" src="icons8-hamburger-menu-32.png"></img>
         <input className="search-bar" type="text" placeholder="search"></input>
