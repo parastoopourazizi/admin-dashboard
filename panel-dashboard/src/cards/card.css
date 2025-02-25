@@ -1,0 +1,8 @@
+.card {
+  background: blue;
+  position: fixed;
+  left: 215px;
+  top: 55px;
+  bottom: 0;
+  right: 0;
+}
