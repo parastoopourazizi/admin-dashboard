@@ -7,34 +7,35 @@ function SideBar() {
       </div>
 
       <div className="sidebar-link">
-        <img src=".\icons\icons8-dashboard-24.png"></img>Dashboard
+        <img className="icon" src=".\icons\icons8-dashboard-24.png"></img>
+        Dashboard
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Charts
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Charts
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Widgets
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Widgets
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Tables
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Tables
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Fullwith
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Fullwith
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Forms
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Forms
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Buttons
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Buttons
       </div>
       <div className="sidebar-link">
-        <img src={".iconsicons8-ranking-48.png"}></img>Icons
+        <img className="icon" src={".iconsicons8-ranking-48.png"}></img>Icons
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Elements
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Elements
       </div>
       <div className="sidebar-link">
-        <img src=".\icons\icons8-ranking-48.png"></img>Addons
+        <img className="icon" src=".\icons\icons8-ranking-48.png"></img>Addons
       </div>
     </div>
   );
