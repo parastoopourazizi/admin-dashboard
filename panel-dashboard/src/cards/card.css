@@ -1,8 +1,15 @@
 .card {
-  background: blue;
+  background: rgb(239 239 239);
   position: fixed;
   left: 215px;
   top: 55px;
   bottom: 0;
   right: 0;
+  display: flex;
+  padding: 30px;
+}
+.card-m {
+  width: 25px;
+  height: 65px;
+  background: brown;
 }
